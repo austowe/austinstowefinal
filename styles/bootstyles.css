@@ -1,0 +1,68 @@
+/*! Austin Stowe - 12/11/2021
+*/
+
+.tableauPlaceholder {
+    max-width:100%;height:auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-item {
+    text-align: center;
+}
+    
+
+body {
+    background-image: url("../images/background.jpg")
+}
+
+.text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white
+}
+
+li {
+    text-align: center;
+    padding: 5px 5px;
+    height: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: xx-large;
+    display: inline;
+}
+
+.nav2 {
+    color:white
+}
+
+.nav{
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    font-size: xx-large;
+}
+
+footer {
+    text-align: center;
+    font-size: xx-large;
+    text-shadow: 2px 2px 5px black;
+}
+
+.explaination {
+    font-size: x-large;
+    text-shadow: 2px 2px 4px black;
+}
+
+.link {
+    color: white;
+}
+
+.tablink {
+    font-size: x-large;
+}
